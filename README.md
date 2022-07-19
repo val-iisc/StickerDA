@@ -1,7 +1,7 @@
 
 # [Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation (ECCV22)](https://arxiv.org)
 
-Code for our **ECCV** 2021 paper 'Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation (ECCV22)'. 
+Code for our **ECCV** 2022 paper 'Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation'. 
 [[website]](https://sites.google.com/) [[paper]](https://arxiv.org) 
 
 ## Dataset preparing
