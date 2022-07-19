@@ -13,7 +13,7 @@ Code for Single Source Domain Adaptation (SSDA) is in the 'SSDA_OH' folder.
 
 > sh SSDA_OH/run.sh
 
-Code for Single Source Domain Adaptation (SSDA) is in the 'SSDA_OH' folder. 
+Code for Multi Source Domain Adaptation (SSDA) is in the 'MSDA_OH' folder. 
 
 > sh MSDA_OH/run.sh
 
