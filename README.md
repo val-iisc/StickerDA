@@ -2,7 +2,7 @@
 # [StickerDA (ECCV22)](https://arxiv.org)
 
 Code for our **ECCV** 2022 paper 'Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation'. 
-[[website]](https://sites.google.com/) [[paper]](https://arxiv.org) 
+[[website]](https://sites.google.com/) [[paper]](https://arxiv.org) [[video]](https://www.youtube.com/watch?v=ENJMz-Eg87k)
 
 ## Dataset preparing
 
