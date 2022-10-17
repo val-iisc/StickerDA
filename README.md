@@ -3,7 +3,7 @@
 
 Code for our **ECCV** 2022 paper 'Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation'. 
 
-[[Project Page]](https://sites.google.com/view/sticker-sfda) [[Paper (coming soon)]](https://val.cds.iisc.ac.in/) [[Video]](https://www.youtube.com/watch?v=ENJMz-Eg87k)
+[[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900177.pdf) [[Project Page]](https://sites.google.com/view/sticker-sfda)
 
 ## Dataset preparation
 
@@ -23,3 +23,14 @@ sh MSDA_OH/run.sh
 ```
 
 ## Pre-trained checkpoints (coming soon)
+
+## Citation
+If you find our work useful in your research, please cite the following paper:
+```
+@InProceedings{kundu2022concurrent,
+  title={Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation},
+  author={Kundu, Jogendra Nath and Bhambri, Suvaansh and Kulkarni, Akshay and Sarkar, Hiran and Jampani, Varun and Babu, R. Venkatesh},
+  booktitle={European Conference on Computer Vision},
+  year={2022},
+}
+```
